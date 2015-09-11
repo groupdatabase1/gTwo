@@ -1,0 +1,74 @@
+/* iLink css */
+.frm{
+border:none;
+}
+.welcome{
+	font-size:24px;
+	font-style:italic;
+	color:#FF00FF;
+}
+.menu{
+
+}
+.btn{
+	border:none;
+	font:"Courier New", Courier, monospace;
+	color:#00FF00;
+	font-size:18px;
+	color:#FF6600;
+}
+.tabletrtd{
+	color:#FF00CC;
+	font-size:18px;
+}
+.tablelogin{
+	display:none;
+	position:absolute;
+	border:medium;
+	border-color:#990000;
+}
+.indiv:hover table{
+	display:compact;
+}
+/* done */
+#logo{
+	font-size:36px;
+	font-family:"Courier New", Courier, mono;
+	color:#3300CC;
+	font-style:oblique;
+}
+#tagname{
+	font-family:Georgia, "Times New Roman", Times, serif;
+	font-size:16px;
+	color:#33CC33;
+}
+<!--#navigation td:hover{	background:#00FF33;}-->
+a{
+	text-decoration:none;
+	font-style:italic;
+	font-size:22px;
+
+}
+a:hover{
+	text-decoration:underline;
+	font-style:italic;
+}
+.bodyTitle{
+	font:19px Arial, Helvetica, sans-serif;
+	letter-spacing:.21emp;
+	color:#9933CC;
+	line-height:26px;
+}
+.bodyText{
+	font:15px Arial, Helvetica, sans-serif;
+	color:#666666;
+	line-height:20px;
+	margin-top:0px;
+}
+.tableborder{
+	border-color:#00FF00;
+	border:2px;
+}
+table tr td{
+	border:1px;
+}

@@ -1,0 +1,19 @@
+ilink management system
+=======================
+project start => 13-1-2012 to 29-1-2012
+version => 0.1 
+Remark =>
+	Only post link with category and mode and title
+	No see Post Link
+	No security Provide
+	No good design and perfomance
+	No concept of oops
+	No work with imgs
+---------------------------------------------------------
+project start => 
+version => 0.2
+Remark =>
+	Improve Quality of version 0.1
+	Post Link with Category,Mode,Mark,Short Description and Title
+	See Post Link
+----------------------------------------------------------
